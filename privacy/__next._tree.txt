@@ -1,0 +1,6 @@
+:HL["/kokorone-support/_next/static/chunks/24ky5cybqpucm.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@700;800&family=Zen+Kaku+Gothic+New:wght@500;700;900&display=swap","style"]
+:HL["/kokorone-support/img/icon.png","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"privacy","h":96,"c":"$Q2"}]]
+0:{"b":"L5H2yccJGh7avwAPA9Z0B","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
